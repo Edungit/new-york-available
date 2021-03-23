@@ -1,0 +1,32 @@
+body {padding: 0px; margin: 0px; min-width: 100%; min-height: 100%; }
+nav {display: flex; justify-content: center; box-shadow: 1px 3px 8px rgba(104, 104, 104, 0.433); padding: 13px; margin-top: -9px;}
+header {display: inline;}
+#hamburger {width: 18px; height: 18px; cursor: pointer; margin-left: 15px; margin-top: 6px; margin-right: 25px;  padding: 9px; border-radius: 6px;}
+#hamburger:hover {background-color: rgba(242, 241, 241, 0.939); padding: 9px; }
+#search {width: 18px; height: 18px; cursor: pointer; margin-top: 6px; margin-right: 400px; padding: 9px; border-radius: 6px; }
+#search:hover {background-color: rgba(242, 241, 241, 0.939); padding: 9px; }
+#nyt {width: 260px; height: 35px; cursor: pointer; margin-top: 12px; margin-right: 325px; }
+#btn {background-color: rgba(4, 4, 90, 0.795); color: white; border-style: none; border-radius: 5px; padding: 7px; cursor: pointer; font-family: 'Montserrat', sans-serif;}
+#btn2 {background-color: rgba(4, 4, 90, 0.795); color: white; border-style: none; border-radius: 5px; padding: 7px; width:200px; cursor: pointer; font-family: 'Montserrat', sans-serif;}
+#btn2:hover {background-color: rgba(5, 5, 118, 0.795); padding: 7px; cursor: pointer; }
+#btn:hover {background-color: rgba(5, 5, 118, 0.795); padding: 7px; cursor: pointer; }
+#flex-kid {margin-right: 20px; cursor: pointer; font-family: 'Montserrat', sans-serif; font-size: 12px; }
+#flex-kid:hover {text-decoration: underline; }
+#flex-bold {margin-right: 20px; font-weight: bold; font-family: 'Montserrat', sans-serif; font-size: 12px; }
+#article {font-family: 'Montserrat', sans-serif; width: 75%; float: right; padding-top: 40px;}
+#article h1{font-size: 30px; justify-content: center; text-align: left; font-style: italic;}
+#article h3{font-size: 18px; justify-content: center; text-align: left; font-family: 'Montserrat', sans-serif; font-weight: normal; width: 65%;}
+#icons {width: 25px; height: 25px; cursor: pointer; margin: 7px; }
+#microverse{width: 650px; height: 500px; }
+#microverse3{width: 150px; height: 30px; padding: 20px;}
+#middle-div{border: solid rgba(72, 71, 71, 0.741) 0.5px; padding: 5px;}
+#footer{min-width: 100%; display: flex;}
+.footer{font-family: 'Montserrat', sans-serif; text-decoration: none; list-style: none; margin-top: 75px; margin-right: 50px;}
+.footer1{font-family: 'Montserrat', sans-serif; text-decoration: none; list-style: none; margin-top: -20px;}
+.footer1 li{cursor: pointer;}
+.footer1 li:hover{cursor: pointer; text-decoration: underline;}
+.footer li{cursor: pointer;}
+.footer li:hover{cursor: pointer; text-decoration: underline;}
+.footer-small{font-family: 'Montserrat', sans-serif; text-decoration: none; list-style: none; margin-right: 50px;}
+.footer-small li{cursor: pointer;}
+.footer-small li:hover{text-decoration: underline;}
