@@ -1,6 +1,12 @@
 nav { display: flex; }
 header { display: inline; }
 #hamburger { width: 18px; }
+
+.nav-child {
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
 #search { width: 18px; }
 #nyt { width: 260px; }
 #sub { background-color: rgba(4, 4, 90, 0.795); }
