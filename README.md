@@ -8,6 +8,7 @@
 ![screenshot](img/screen2.JPG)
 ![screenshot](img/screen3.JPG)
 ![screenshot](img/screen4.JPG)
+![screenshot](img/screen6.JPG)
 ![screenshot](img/screen7.JPG)
 ![screenshot](img/screen8.JPG)
 >
