@@ -12,7 +12,7 @@
 <img src="img/screen8.jpg">
 
 
-Additional description about the project and its features.
+This project is meant to improve our skills of using float, flex and flexbox.
 
 ## Built With
 
