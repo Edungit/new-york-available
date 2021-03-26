@@ -3,7 +3,7 @@
 # New York Time Article Page Project
 
 > This is my First Solo Project in Microverse, I am meant to build the mimic of the New York Times Article Page.
-
+![screenshot](img/screen1.jpg)
 <img src="img/screen1.jpg">
 <img src="img/screen2.jpg">
 <img src="img/screen3.jpg">
@@ -51,9 +51,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Edungit)
-- Twitter: [@twitterhandle](https://twitter.com/edunnaty)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edun-habeeb-635680131/)
+- GitHub: [@Edungit](https://github.com/Edungit)
+- Twitter: [@edunnaty](https://twitter.com/edunnaty)
+- LinkedIn: [Edun-Habeeb](https://www.linkedin.com/in/edun-habeeb-635680131/)
 
 👤 **Author2**
 
