@@ -1,18 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# New York Time Article Page Project
+# This is UX &  Exercise
 
-> This is my First Solo Project in Microverse, I am meant to build the mimic of the New York Times Article Page.
+> This is my form exercise.
 >
-![screenshot](img/screen1.JPG)
-![screenshot](img/screen2.JPG)
-![screenshot](img/screen3.JPG)
-![screenshot](img/screen4.JPG)
-![screenshot](img/screen6.JPG)
-![screenshot](img/screen7.JPG)
-![screenshot](img/screen8.JPG)
 >
-This project is meant to improve our skills of using float, flex and flexbox.
+This project is meant to improve our skills creating forms.
 
 ## Built With
 
