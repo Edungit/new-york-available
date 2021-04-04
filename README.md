@@ -13,10 +13,6 @@ This project is meant to improve our skills creating forms.
 - CSS
 
 
-## Live Demo
-
-[Live Demo Link](https://edungit.github.io/new-york-available/)
-
 
 ## Authors
 
