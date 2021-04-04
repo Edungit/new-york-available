@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article Form</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body>
+  
+
+<form>
+
+  <h1>Comment</h1>
+
+  <fieldset>
+    <span>Name:</span>
+    <input type="text" id="fullname" name="name">
+
+    <span>Email:</span>
+    <input type="email" id="user-mail" name="email">
+
+    <span>Comment:</span>
+    <textarea id="user-comment" name="user-comment"></textarea>
+
+    <span>What is your overall opinion about this article?</span>
+    <input type="radio" class="Positive" value="positive" name="Positive"><span>Positive</span><br/>
+    <input type="radio" class="Negative" value="Negative" name="Negative"><span>Negative</span> <br>
+    <input type="radio" class="Neutral" value="Neutral" name="Neutral"><span>Neutral</span>
+  </fieldset>
+
+  <input type="checkbox" class="user_sub" value="interest" name="user_interest"><span>I want to subscribe to the newsletter</span><br> <br>
+   
+  <button type="submit">Send</button>
+
+</form>
+
+</body>
+</html>
