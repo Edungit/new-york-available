@@ -1,6 +1,6 @@
 *,
-*:before,
-*:after {
+*::before,
+*::after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -62,7 +62,7 @@ select {
 
 button {
   padding: 19px 39px 18px 39px;
-  color: #FFF;
+  color: #fff;
   background-color: #dfe21e;
   font-size: 18px;
   text-align: center;
@@ -108,10 +108,4 @@ label.light {
   text-align: center;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
   border-radius: 100%;
-}
-
-@media screen and (min-width: 480px) {
-  form {
-    max-width: 480px;
-  }
 }
